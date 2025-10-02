@@ -1,0 +1,5 @@
+
+@Entity
+public class User{
+
+}
